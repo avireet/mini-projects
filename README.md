@@ -10,6 +10,7 @@ A collection of small React + Vite projects deployed on **Vercel**.
 - [❌] Tic-Tac-Toe : https://mini-projects-2gk4.vercel.app/
 - [📃] To-Do List : https://todolist-zeta-liard.vercel.app/
 - [☁️] Weather App : https://weather-self-theta.vercel.app/
+- [✂️] Rock-Paper-Scissor : https://rockpaperscis.vercel.app/
   
 ## 🛠️ Tech Stack
 - **React + Vite**
